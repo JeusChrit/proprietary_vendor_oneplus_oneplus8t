@@ -85,11 +85,11 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus8t/proprietary/odm/lib64/camera/com.qti.tuned.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.semco_imx586.bin \
     vendor/oneplus/oneplus8t/proprietary/odm/lib64/camera/com.qti.tuned.shine_gc5035.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.shine_gc5035.bin \
     vendor/oneplus/oneplus8t/proprietary/odm/lib64/camera/com.qti.tuned.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.truly_imx471.bin \
-    vendor/oneplus/oneplus8t/proprietary/odm/lib64/camera/com.qti_kebab.sensor.gc02m1b.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_oneplus8t.sensor.gc02m1b.so \
-    vendor/oneplus/oneplus8t/proprietary/odm/lib64/camera/com.qti_kebab.sensor.gc5035.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_oneplus8t.sensor.gc5035.so \
-    vendor/oneplus/oneplus8t/proprietary/odm/lib64/camera/com.qti_kebab.sensor.imx471.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_oneplus8t.sensor.imx471.so \
-    vendor/oneplus/oneplus8t/proprietary/odm/lib64/camera/com.qti_kebab.sensor.imx481.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_oneplus8t.sensor.imx481.so \
-    vendor/oneplus/oneplus8t/proprietary/odm/lib64/camera/com.qti_kebab.sensor.imx586.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_oneplus8t.sensor.imx586.so \
+    vendor/oneplus/oneplus8t/proprietary/odm/lib64/camera/com.qti_kebab.sensor.gc02m1b.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_kebab.sensor.gc02m1b.so \
+    vendor/oneplus/oneplus8t/proprietary/odm/lib64/camera/com.qti_kebab.sensor.gc5035.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_kebab.sensor.gc5035.so \
+    vendor/oneplus/oneplus8t/proprietary/odm/lib64/camera/com.qti_kebab.sensor.imx471.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_kebab.sensor.imx471.so \
+    vendor/oneplus/oneplus8t/proprietary/odm/lib64/camera/com.qti_kebab.sensor.imx481.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_kebab.sensor.imx481.so \
+    vendor/oneplus/oneplus8t/proprietary/odm/lib64/camera/com.qti_kebab.sensor.imx586.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_kebab.sensor.imx586.so \
     vendor/oneplus/oneplus8t/proprietary/odm/lib64/camera/components/com.oneplus.node.cfrsnapshot.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oneplus.node.cfrsnapshot.so \
     vendor/oneplus/oneplus8t/proprietary/odm/lib64/camera/components/com.oneplus.node.cfrvideo.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oneplus.node.cfrvideo.so \
     vendor/oneplus/oneplus8t/proprietary/odm/vendor/firmware/gfp9638.b00:$(TARGET_COPY_OUT_ODM)/vendor/firmware/gfp9638.b00 \
@@ -115,4 +115,5 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus8t/proprietary/vendor/lib64/libkeymasterdeviceutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymasterdeviceutils.so \
     vendor/oneplus/oneplus8t/proprietary/vendor/lib64/libkeymasterprovision.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymasterprovision.so \
     vendor/oneplus/oneplus8t/proprietary/vendor/lib64/libkeymasterutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymasterutils.so \
-    vendor/oneplus/oneplus8t/proprietary/vendor/lib64/libqtikeymaster4.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqtikeymaster4.so
+    vendor/oneplus/oneplus8t/proprietary/vendor/lib64/libqtikeymaster4.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqtikeymaster4.so \
+    vendor/oneplus/oneplus8t/proprietary/vendor/lib64/libspcom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libspcom.so
